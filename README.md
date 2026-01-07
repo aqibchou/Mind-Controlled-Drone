@@ -1,6 +1,6 @@
 # Mind Controlled Drone
 
-A drone system controlled solely through brain-computer interface (BCI) technology, utilizing machine learning techniques to discriminate between motor imagery signals.
+A drone system controlled solely through the brain, utilizing machine learning techniques and filtering algorithms to discriminate between motor imagery signals.
 
 ## Overview
 
